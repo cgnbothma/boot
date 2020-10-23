@@ -1,0 +1,6 @@
+applications :
+- name: "boot"
+  path : "dist/boot"
+  memory : 256M
+  disk_quota: 1024MB
+  instances: 1
